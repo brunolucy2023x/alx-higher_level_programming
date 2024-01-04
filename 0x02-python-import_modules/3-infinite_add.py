@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# 3-infinite_add.py
+# Bruno Okoth
 if __name__ == "__main__":
     import sys
     result = 0
