@@ -4,7 +4,7 @@
  * is_palindrome - checks if a linked list is a palindrome
  *
  * @head: the head address of the linked list
- *
+ * Bruno Okoth
  * Return: 1 if it's a palindrome, 0 else
  */
 
