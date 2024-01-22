@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# 101-safe_function.py
+# Bruno Okoth
 def magic_calculation(a, b):
     result = 0
     for i in range(1, 3):
