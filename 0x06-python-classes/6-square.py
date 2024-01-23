@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# 6-square.py
+# brunookoth44@gmail.com
+# Bruno Okoth
 """Defines a class Square"""
 
 
