@@ -1,8 +1,11 @@
 #!/usr/bin/python3
-"""Defines a class Square"""
+# 0-square.py
+# brunookoth44@gmail.com
+# Bruno Okoth
+"""Describes and explains  a class Square"""
 
 
 class Square:
-    """Class that defines properties of square.
+    """Class that describes and explains  properties of square.
     """
     pass
