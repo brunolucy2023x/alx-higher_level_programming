@@ -2,7 +2,7 @@
 # 1-square.py
 # brunookoth44@gmail.com
 # Bruno Okoth
-"""Defines a class Square"""
+"""What a class square means"""
 
 
 class Square:
