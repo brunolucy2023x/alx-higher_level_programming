@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# 103-magic_class.py
+# brunookoth44@gmail.com
+# Bruno Okoth
 """Defines a class MagicClass"""
 import math
 

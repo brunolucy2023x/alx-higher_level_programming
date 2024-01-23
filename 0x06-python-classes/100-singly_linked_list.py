@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# 100-singly_linked_list.py
+# brunookoth44@gmail.com
+# Bruno Okoth
 """Defines the classes Node and SinglyLinkedList"""
 
 
