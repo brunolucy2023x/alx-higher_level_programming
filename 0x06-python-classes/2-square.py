@@ -13,7 +13,7 @@ class Square:
         size: size of a square (1 side).
     """
     def __init__(self, size=0):
-        """Creates new instances of square.
+        """generates fresh square instances.
 
         Args:
             size: size of the square (1 side).
@@ -21,7 +21,7 @@ class Square:
         self.__size = size
 
         if not isinstance(size, int):
-            raise TypeError("size must be an integer")
+            raise TypeError("Size needs to be a whole number")
         elif size < 0:
             raise ValueError("size must be >= 0")
         else:
