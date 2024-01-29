@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-# 9-rectangle.py
-# Bruno Okoth
-# brunookoth44@gmail.com
 """9-rectangle, built for Python project 0x08 task 9.
 """
 
