@@ -2,7 +2,7 @@
 # 1-rectangle.py
 # Bruno Okoth
 # brunookoth44@gmail.com
-"""1-rectangle, built for Holberton Python project 0x08 task 1.
+"""1-rectangle, built for Python project 0x08 task 1.
 """
 
 
