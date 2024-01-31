@@ -1,8 +1,8 @@
 Test all delimeter with spaces at ends:
->>> text_indentation("Hello   :     Holberton    ?    school.    fooo     ")
+>>> text_indentation("Hello   :     Alx    ?    school.    fooo     ")
 Hello:
 <BLANKLINE>
-Holberton?
+Alx?
 <BLANKLINE>
 school.
 <BLANKLINE>
@@ -16,8 +16,8 @@ Test just delimeter:
 :
 <BLANKLINE>
 Test string with the spaces:
->>> text_indentation("    Holberton")
-Holberton
+>>> text_indentation("    Alx")
+Alx
 Test just delimeters:
 >>> text_indentation("  ?  ")
 ?
@@ -51,17 +51,17 @@ Traceback (most recent call last):
 ...
 TypeError: text must be a string
 Test string with some spaces:
->>> text_indentation("        Holberton          ")
-Holberton
+>>> text_indentation("        Alx          ")
+Alx
 Test string with an empty string:
 >>> text_indentation("")
 Test string with an empty string (2):
 >>> text_indentation("      ")
 Test:
->>> text_indentation("Hello: Holberton")
+>>> text_indentation("Hello: Alx")
 Hello:
 <BLANKLINE>
-Holberton
+Alx
 Test delimeters with spaces:
 >>> text_indentation("      ?:  :  ")
 ?
@@ -84,25 +84,25 @@ Hello
 Import module:
 >>> text_indentation = __import__('5-text_indentation').text_indentation
 Test no delimeters:
->>> text_indentation("Hello Holberton")
-Hello Holberton
+>>> text_indentation("Hello Alx")
+Hello Alx
 Test string with spaces:
->>> text_indentation("Holberton    ")
-Holberton
+>>> text_indentation("Alx    ")
+Alx
 Test all delimeters!:
 >>> text_indentation("Hello: Holberton? school. fooo")
 Hello:
 <BLANKLINE>
-Holberton?
+Alx?
 <BLANKLINE>
 school.
 <BLANKLINE>
 fooo
 Test all delimeters with some spaces:
->>> text_indentation("Hello   :   Holberton  ?  school.  fooo")
+>>> text_indentation("Hello   :   Alx  ?  school.  fooo")
 Hello:
 <BLANKLINE>
-Holberton?
+Alx?
 <BLANKLINE>
 school.
 <BLANKLINE>
