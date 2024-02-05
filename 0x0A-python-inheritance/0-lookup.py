@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# 0-lookup.py
+# Bruno Okoth
+# brunookoth44@gmail.com
 """
 =============================
 Module with the method lookpu
