@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-# 1-my_list.py
-# Bruno Okoth
-# brunookoth44@gmail.com
 MyList = __import__('1-my_list').MyList
 
 my_list = MyList()
