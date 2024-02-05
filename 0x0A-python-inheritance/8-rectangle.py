@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-# 8-rectangle.py
-# Bruno Okoth
-# brunookoth44@gmail.com
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
 
 """
