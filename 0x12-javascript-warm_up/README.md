@@ -1,1 +1,1 @@
-https://intranet.alxswe.com/projects/303#quiz-completed
+0x12. JavaScript - Warm up 
