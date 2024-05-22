@@ -1,4 +1,5 @@
 #!/usr/bin/node
+// brunookoth44@gmail.com
 
 const req = require('request');
 const id = process.argv[2];

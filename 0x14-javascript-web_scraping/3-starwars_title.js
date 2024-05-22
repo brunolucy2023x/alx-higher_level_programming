@@ -1,4 +1,5 @@
 #!/usr/bin/node
+// brunookoth44@gmail.com
 
 const request = require('request');
 const episodeNum = process.argv[2];
