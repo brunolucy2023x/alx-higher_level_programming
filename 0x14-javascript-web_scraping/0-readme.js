@@ -1,4 +1,5 @@
 #!/usr/bin/node
+// brunookoth44@gmail.con
 
 const fs = require('fs');
 const file = process.argv[2];
